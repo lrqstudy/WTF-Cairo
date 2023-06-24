@@ -42,7 +42,7 @@ To use the `Cairo CLI`, we need to install Rust and clone the Cairo repo.
 3. Verify that Rust is installed correctly:
 
     ```shell
-    cargo test
+    cargo test  #after clone code 
     ```
 
 4. Clone the Cairo repo locally:
